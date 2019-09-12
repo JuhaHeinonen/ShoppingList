@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ShoppingList</string>
+    <string name="textView2">Add Items to your list</string>
+    <string name="editText">Item</string>
+    <string name="button">Add</string>
+    <string name="button2">Done</string>
 </resources>
